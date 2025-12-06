@@ -2072,6 +2072,10 @@ iframe {
 .theme-main-menu .navbar {
   margin-left: 7%;
 }
+.logo img {
+   width: 4rem!important;
+   height: auto;
+ }
 @keyframes sticky {
   0% {
     transform: translateY(-100%);
